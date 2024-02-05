@@ -1,6 +1,6 @@
 Olá 👋
 
-Eu sou o Murilo Bernardo, sou um programador Front End, atualmente estou aprendendo e criando projetos com:
+Eu sou o Murilo Bernardo, sou um programador Front-End, atualmente estou aprendendo e criando projetos com:
 <br>
 <br>
 
